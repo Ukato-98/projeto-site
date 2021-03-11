@@ -1,0 +1,14 @@
+.menu-principal{
+    width: 100%;
+}
+
+#logo {
+    border-bottom: 2px solid black;
+    margin: 0px;
+    padding: 30px 30px 30px 60px ;
+    background: url(../img/logo.png);
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: 0px;
+    
+}
